@@ -1,4 +1,4 @@
-# calc
+# combinatorics-calc
 
 combinatorics calculator
 
